@@ -6,6 +6,7 @@ The purpose of this repo is to monitor my progress in learning HTML by making a 
     <img src="assets/readme-screenshots/nutritionlabel_output.png" alt="Nutrition Label Output"/>
     <img src="assets/readme-screenshots/freecodecamp_steps.png" alt="freeCodeCamp completion"/>
 </p>
+
 ## Learnings
 1. Making two columnn alignment
 2. Using CSS to modify tags in HTML
