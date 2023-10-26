@@ -2,9 +2,10 @@
 The purpose of this repo is to monitor my progress in learning HTML by making a Nutrition Label. I am utilizing the freeCodeCamp [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label) for this repo.
 
 ## Screenshots
-<img src="assets/readme-screenshots/nutritionlabel_output.png" alt="Nutrition Label Output"/>
-<img src="assets/readme-screenshots/freecodecamp_steps.png" alt="freeCodeCamp completion"/>
-
+<p align="center">
+    <img src="assets/readme-screenshots/nutritionlabel_output.png" alt="Nutrition Label Output"/>
+    <img src="assets/readme-screenshots/freecodecamp_steps.png" alt="freeCodeCamp completion"/>
+</p>
 ## Learnings
 1. Making two columnn alignment
 2. Using CSS to modify tags in HTML
